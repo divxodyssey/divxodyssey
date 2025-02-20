@@ -1,7 +1,7 @@
 ![MasterHead](https://i.imghippo.com/files/SD6f71729078855.png)
 <h1 align="center">Hi 👋, I'm Divyansh Phulwaria</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.imghippo.com/files/fMl4a1729078786.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 - 🌱 I’m currently learning **Data Structure & Algorithm**
 
