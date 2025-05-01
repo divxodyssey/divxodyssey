@@ -1,7 +1,7 @@
 ![MasterHead](https://i.ibb.co/8ghcjzhr/Github-Bg.png)
 <h1 align="center">Hi 👋, I'm Divyansh Phulwaria</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/23QVFcMv/Github-Picture.gif">
+<img align="right" alt="Coding" width="400" src="https://dezzvcsu5eggb.cloudfront.net/h4xmfq%2Fpreview%2F66738345%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1746112308&Signature=RnnUJGF~KuJ2-QJBYUC4H8Vu4uWl6PyvY0PnYI18Jhh6ZTRrenxAfQr3LYrroggsF3TbDMyio-Si75xo5c0GHj-WaCcaJlVjPQcuDFWifH4Qp9bBclqogC124Ly~1sBGcYpl6K0~4Ur-5xHORx-HBDmdFvnfkFGuqJy71xXPb6bXXTL75VpJuxTsefsv45CrZ1JeXWL-QUdEuoD8PVEnWM7qrL7S2U4ArgOB0IlBK91REbd7-1cRFoBD2xL8wyeQ33q0SIv2ReYc5j7bmPdZmVoHvKqklij3iNmhAKvCdkP~lg7ZSjuGNrlcvvyqRGmD~i87xk1iJw2UwOah-FA8Aw__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ">
 
 - 🌱 I’m currently learning **MERN Stack & Frontend Development, Data Structure & Algorithm**
 
