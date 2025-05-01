@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/8ghcjzhr/Github-Bg.png)
+![MasterHead](https://iili.io/3hYbd8B.png)
 <h1 align="center">Hi 👋, I'm Divyansh Phulwaria</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://s4.gifyu.com/images/bLmR4.gif">
