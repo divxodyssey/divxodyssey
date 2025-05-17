@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack & Frontend Development, Data Structure & Algorithm**
 
-- 💬 Ask me about **C++, Web Development**
+- 💬 Ask me about **Javascript, Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
