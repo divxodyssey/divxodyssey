@@ -20,12 +20,11 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-    - name: Generate contribution snake
-      uses: Platane/snk@v3
-      with:
-        github_user_name: ${{ github.repository_owner }}
-        outputs: |
-          dist/github-snake.svg
+    - name: Create dist folder
+      run: mkdir -p dist
+
+    - name: Generate contribution snake manually
+      run: npx @platane/snk --github-user=${{ github.repository_owner }} --output=dist/github-snake.svg
 
     - name: List dist directory
       run: ls -la dist/
