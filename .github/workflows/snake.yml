@@ -3,17 +3,19 @@ name: Generate GitHub Contribution Snake
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'  # daily at midnight UTC
+    - cron: '0 0 * * *'  # daily midnight UTC
 
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
+    - name: Checkout repo
       uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
 
-    - name: Setup git user
+    - name: Configure git user
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
