@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/divxodyssey/divxodyssey/blob/main/assets/Github%20Bg.png)
 <h1 align="center">Hi 👋, I'm Divyansh Phulwaria</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/divxodyssey/divxodyssey/main/assets/coding.gif" />
+<img align="right" alt="Coding" width="400" src="https://github.com/divxodyssey/divxodyssey/blob/main/assets/Github%20Picture.gif" />
 
 - 🌱 I’m currently learning **MERN Stack & Frontend Development, Data Structure & Algorithm**
 
