@@ -24,11 +24,14 @@ jobs:
       uses: Platane/snk@v3
       with:
         github_user_name: ${{ github.repository_owner }}
+        outputs: |
+          dist/github-snake.svg
+
+    - name: List dist directory
+      run: ls -la dist/
 
     - name: Commit and push changes
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: Update contribution snake
-        branch: output
-        file_pattern: dist/
-        push_options: --force
+      run: |
+        git add dist/
+        git commit -m "Update contribution snake" || echo "No changes to commit"
+        git push origin output --force
